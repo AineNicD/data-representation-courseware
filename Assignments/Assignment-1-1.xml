@@ -3,7 +3,7 @@
 <!-- The library has two catalogues, technical books and cookery books. Books have ISBN, title and author -->
 
 <library>
-<catalogue title="Technical">
+<catalogue category ="Technical">
 
 <Book>
 <ISBN>9781848212343</ISBN>
@@ -19,7 +19,7 @@
 
 </catalogue>
 
-<catalogue title="Cookery">
+<catalogue category ="Cookery">
 
 <Book>
 <ISBN>9781529016314</ISBN>
