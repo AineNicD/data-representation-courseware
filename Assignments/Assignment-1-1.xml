@@ -3,36 +3,36 @@
 <!-- The library has two catalogues, technical books and cookery books. Books have ISBN, title and author -->
 
 <library>
-<catalogue category ="Technical">
+    <catalogue category ="Technical">
 
-<Book>
-<ISBN>9781848212343</ISBN>
-<Title>Simulation and Modeling of Systems of Systems</Title>
-<Author>Cantot</Author>
-</Book>
+        <Book>
+            <ISBN>9781848212343</ISBN>
+            <Title>Simulation and Modeling of Systems of Systems</Title>
+            <Author>Cantot</Author>
+        </Book>
 
-<Book>
-<ISBN>9780130819086</ISBN>
-<Title>Bioprocess Engineering Basic Concepts</Title>
-<Author>Kargi</Author>
-</Book>
+         <Book>
+            <ISBN>9780130819086</ISBN>
+            <Title>Bioprocess Engineering Basic Concepts</Title>
+            <Author>Kargi</Author>
+        </Book>
 
-</catalogue>
+    </catalogue>
 
-<catalogue category ="Cookery">
+    <catalogue category ="Cookery">
 
-<Book>
-<ISBN>9781529016314</ISBN>
-<Title>Joe's Family Food</Title>
-<Author>Joe Wicks</Author>
-</Book>
+        <Book>
+            <ISBN>9781529016314</ISBN>
+            <Title>Joe's Family Food</Title>
+            <Author>Joe Wicks</Author>
+        </Book>
 
-<Book>
-<ISBN>9781785945076</ISBN>
-<Title>Simple comforts</Title>
-<Author>Mary Berry</Author>
-</Book>
+        <Book>
+            <ISBN>9781785945076</ISBN>
+            <Title>Simple comforts</Title>
+            <Author>Mary Berry</Author>
+        </Book>
 
-</catalogue>
+    </catalogue>
 
 </library>
